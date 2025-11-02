@@ -47,16 +47,5 @@ public class Album extends Nivel{
     public void agregarCancion(Cancion c){
         canciones.add(c);
     }
-
-//    @Override
-//    public String toString() {
-//        return "Album{" + "Nombre: " + getNombre() +
-//                "annoLanzamiento=" + annoLanzamiento +
-//                ", genero='" + genero + '\'' +
-//                ", cantCanciones=" + cantCanciones +
-//                ", canciones=" + canciones +
-//                '}';
-//    }
-    
-    
+      
 }
